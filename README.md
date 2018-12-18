@@ -2,10 +2,9 @@
 
 fishing - game
 
-# ตำแหน่ง File .jar
+# ตำแหน่ง File .jar 😘
 
-oop_nemogame/gradle/wrapper/
-
+oop_nemogame/core/assets/Nemo-game.jar
 
 # วิธีการเล่น
 
